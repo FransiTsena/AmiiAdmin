@@ -37414,7 +37414,7 @@ p=A.Gl(new A.cf(i)).qq(0)
 o=p.a
 o=A.k6(p.b,o.c.dQ(0,o.b.k5(0,A.e($.Dw))))
 p=o.a
-n=A.k6(o.b,p.c.dQ(0,p.b.k5(0,"entrance")))
+n=A.k6(o.b,p.c.dQ(0,p.b.k5(0,"photo")))
 p=$.b8
 i=(p==null?$.b8=$.d_():p).cF(0,"[DEFAULT]")
 A.bh(i,j,!1)
@@ -37422,7 +37422,7 @@ p=A.Gl(new A.cf(i)).qq(0)
 o=p.a
 o=A.k6(p.b,o.c.dQ(0,o.b.k5(0,A.e($.Dw))))
 p=o.a
-m=A.k6(o.b,p.c.dQ(0,p.b.k5(0,"transcript")))
+m=A.k6(o.b,p.c.dQ(0,p.b.k5(0,"entrance")))
 p=$.b8
 i=(p==null?$.b8=$.d_():p).cF(0,"[DEFAULT]")
 A.bh(i,j,!1)
@@ -37438,7 +37438,7 @@ j=A.Gl(new A.cf(i)).qq(0)
 p=j.a
 p=A.k6(j.b,p.c.dQ(0,p.b.k5(0,A.e($.Dw))))
 j=p.a
-k=A.k6(p.b,j.c.dQ(0,j.b.k5(0,"photo")))
+k=A.k6(p.b,j.c.dQ(0,j.b.k5(0,"transcript")))
 j=t.P
 s=2
 return A.a2(n.a.dW(0).b8(0,new A.a8K(),j),$async$lB)
